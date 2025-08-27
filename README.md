@@ -14,13 +14,13 @@ It’s best practice to isolate dependencies.
   ``` cd scraper/ ```
 
 - #### Create venv
-  ```python3 -m venv venv```
+  ```python3 -m venv scraper```
 
 - #### Activate (Linux/Mac)
-  ```source venv/bin/activate```
+  ```source scraper/bin/activate```
 
 - #### Activate (Windows)
-  ```venv\Scripts\activate```
+  ```scraper\Scripts\activate```
 
 
 #### To run the spider:<br>
